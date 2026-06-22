@@ -1,4 +1,4 @@
-# OpenWebUI_Payload_confusion_Pipeline
+# OpenWebUI_Payload_Obfuscation_Pipeline
 
 # Payload Forge — Open WebUI 紅隊 Pipeline
 
